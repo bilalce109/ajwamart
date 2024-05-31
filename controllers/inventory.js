@@ -6,7 +6,6 @@ import inventory from '../models/inventory.js';
 import inventoryCategory from '../models/inventoryCategory.js';
 import service from '../models/service.js';
 import job from '../models/job.js';
-import jobService from '../service/job.js';
 
 
 const createInventory = async (req, res) => {

@@ -1,7 +1,6 @@
 import invoice from "../models/invoice.js";
 import job from "../models/job.js";
 import vehicle from "../models/vehicle.js";
-import jobService from "../service/job.js";
 import helpers from "../utils/helpers.js";
 
 const store = async (req, res) => {

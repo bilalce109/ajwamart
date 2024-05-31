@@ -1,7 +1,6 @@
 import job from "../models/job.js";
 import employeesData from "../models/employees.js";
 import users from "../models/users.js";
-import userService from "../service/userService.js";
 import attendanceData from "../models/attendance.js";
 import invoice from "../models/invoice.js";
 import closeProcedure from '../models/closingProcedure.js';

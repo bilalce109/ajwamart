@@ -8,10 +8,8 @@ import inventory from '../models/inventory.js';
 import users from '../models/users.js';
 import customer from '../models/customer.js';
 import vehicle from '../models/vehicle.js';
-import jobService from '../service/job.js';
 import helpers from '../utils/helpers.js';
 import invoice from '../models/invoice.js';
-import userService from '../service/userService.js';
 import jobPackage from '../models/jobPackage.js';
 import { io } from '../index.js'; // Adjust the path as needed
 

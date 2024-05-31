@@ -10,7 +10,6 @@ import employeesData from '../models/employees.js';
 import job from '../models/job.js';
 import vendor from '../models/vendor.js';
 import invoice from '../models/invoice.js';
-import jobService from '../service/job.js';
 import customer from '../models/customer.js';
 import inventory from '../models/inventory.js';
 import vehicle from '../models/vehicle.js';

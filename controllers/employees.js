@@ -2,7 +2,6 @@ import mongoose from 'mongoose';
 import bcrypt from 'bcrypt';
 import SimpleSchema from 'simpl-schema';
 import employees from '../models/employees.js';
-import privilege from '../models/privilege.js';
 import helper from '../utils/helpers.js';
 import job from '../models/job.js';
 import jwt from 'jsonwebtoken';

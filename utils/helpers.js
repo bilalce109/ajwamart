@@ -418,7 +418,6 @@ export default {
     paginate,
     sort,
     verifyAdminAuthToken,
-    sendResetPasswordPhone,
     randomCodeGenerate,
     couponCode,
     generatePassword,
